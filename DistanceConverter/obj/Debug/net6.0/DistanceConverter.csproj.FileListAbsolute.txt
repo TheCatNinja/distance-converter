@@ -1,0 +1,30 @@
+D:\Milena Milewska\Pulpit\Praktyki X code\Kursy\DistanceConverter\DistanceConverter\bin\Debug\net6.0\DistanceConverter.exe
+D:\Milena Milewska\Pulpit\Praktyki X code\Kursy\DistanceConverter\DistanceConverter\bin\Debug\net6.0\DistanceConverter.deps.json
+D:\Milena Milewska\Pulpit\Praktyki X code\Kursy\DistanceConverter\DistanceConverter\bin\Debug\net6.0\DistanceConverter.runtimeconfig.json
+D:\Milena Milewska\Pulpit\Praktyki X code\Kursy\DistanceConverter\DistanceConverter\bin\Debug\net6.0\DistanceConverter.dll
+D:\Milena Milewska\Pulpit\Praktyki X code\Kursy\DistanceConverter\DistanceConverter\bin\Debug\net6.0\DistanceConverter.pdb
+D:\Milena Milewska\Pulpit\Praktyki X code\Kursy\DistanceConverter\DistanceConverter\obj\Debug\net6.0\DistanceConverter.csproj.AssemblyReference.cache
+D:\Milena Milewska\Pulpit\Praktyki X code\Kursy\DistanceConverter\DistanceConverter\obj\Debug\net6.0\DistanceConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Milena Milewska\Pulpit\Praktyki X code\Kursy\DistanceConverter\DistanceConverter\obj\Debug\net6.0\DistanceConverter.AssemblyInfoInputs.cache
+D:\Milena Milewska\Pulpit\Praktyki X code\Kursy\DistanceConverter\DistanceConverter\obj\Debug\net6.0\DistanceConverter.AssemblyInfo.cs
+D:\Milena Milewska\Pulpit\Praktyki X code\Kursy\DistanceConverter\DistanceConverter\obj\Debug\net6.0\DistanceConverter.csproj.CoreCompileInputs.cache
+D:\Milena Milewska\Pulpit\Praktyki X code\Kursy\DistanceConverter\DistanceConverter\obj\Debug\net6.0\DistanceConverter.dll
+D:\Milena Milewska\Pulpit\Praktyki X code\Kursy\DistanceConverter\DistanceConverter\obj\Debug\net6.0\refint\DistanceConverter.dll
+D:\Milena Milewska\Pulpit\Praktyki X code\Kursy\DistanceConverter\DistanceConverter\obj\Debug\net6.0\DistanceConverter.pdb
+D:\Milena Milewska\Pulpit\Praktyki X code\Kursy\DistanceConverter\DistanceConverter\obj\Debug\net6.0\DistanceConverter.genruntimeconfig.cache
+D:\Milena Milewska\Pulpit\Praktyki X code\Kursy\DistanceConverter\DistanceConverter\obj\Debug\net6.0\ref\DistanceConverter.dll
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\DistanceConverter\DistanceConverter\bin\Debug\net6.0\DistanceConverter.exe
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\DistanceConverter\DistanceConverter\bin\Debug\net6.0\DistanceConverter.deps.json
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\DistanceConverter\DistanceConverter\bin\Debug\net6.0\DistanceConverter.runtimeconfig.json
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\DistanceConverter\DistanceConverter\bin\Debug\net6.0\DistanceConverter.dll
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\DistanceConverter\DistanceConverter\bin\Debug\net6.0\DistanceConverter.pdb
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\DistanceConverter\DistanceConverter\obj\Debug\net6.0\DistanceConverter.csproj.AssemblyReference.cache
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\DistanceConverter\DistanceConverter\obj\Debug\net6.0\DistanceConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\DistanceConverter\DistanceConverter\obj\Debug\net6.0\DistanceConverter.AssemblyInfoInputs.cache
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\DistanceConverter\DistanceConverter\obj\Debug\net6.0\DistanceConverter.AssemblyInfo.cs
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\DistanceConverter\DistanceConverter\obj\Debug\net6.0\DistanceConverter.csproj.CoreCompileInputs.cache
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\DistanceConverter\DistanceConverter\obj\Debug\net6.0\DistanceConverter.dll
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\DistanceConverter\DistanceConverter\obj\Debug\net6.0\refint\DistanceConverter.dll
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\DistanceConverter\DistanceConverter\obj\Debug\net6.0\DistanceConverter.pdb
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\DistanceConverter\DistanceConverter\obj\Debug\net6.0\DistanceConverter.genruntimeconfig.cache
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\DistanceConverter\DistanceConverter\obj\Debug\net6.0\ref\DistanceConverter.dll
