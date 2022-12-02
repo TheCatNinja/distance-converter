@@ -34,7 +34,7 @@ static void DistanceConverter()
         else
         {
             m = kmFloat * 1000;
-            result = $"{kmFloat} | {m}";
+            result = $"{kmFloat}|{m}";
             Console.WriteLine($"The result - {kmFloat} km = {m} m\n");
             cont = 1;
         }
